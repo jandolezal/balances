@@ -18,4 +18,4 @@ Fuels covered:
 * Renewable municipal waste
 * Renewables and biofuels
 
-Jupyter notebooks parsing xlsb files from a zip file [Energy Balances in the MS Excel file format (2020 edition)](https://ec.europa.eu/eurostat/documents/38154/4956218/Energy-Balances-April-2020-edition.zip/69da6e9f-bf8f-cd8e-f4ad-50b52f8ce616) and producing csv exports for some variables or tidy datasets to be used elsewhere.
+Jupyter notebooks parsing xlsb files from zip files for 2020 and 2021 editions and producing csv exports for selected variables to be used elsewhere.
