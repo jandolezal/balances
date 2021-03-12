@@ -1,5 +1,7 @@
 # Bioenergy in Energy balances
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jandolezal/balances/master)
+
 Getting few information on bioenergy from Eurostat's [Energy balances](https://ec.europa.eu/eurostat/web/energy/data/energy-balances) database:
 
 Directory `eu` for whole EU, `selection` for AT, CZ, DK, NL, PL, SK.
