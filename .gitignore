@@ -3,4 +3,5 @@ dk/
 *.zip
 *.png
 *.svg
-
+*.xlsb
+*.pdf
